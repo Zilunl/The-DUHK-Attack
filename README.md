@@ -1,1 +1,5 @@
 # The-DUHK-Attack
+In this assignment you will demonstrate your abilities functions, pointers, arrays, loops, and conditionals. The as- signment covers the following components of the textbook: Chapters 1 to 7 inclusive, along with material from pages 230-235.
+The assignment is intended to be very challenging and push your programming skills significantly further than Grok, as well as testing your algorithmic thinking. However, it is also intended to be fun, and a very close analogue to a real world task. The first time I coded the full version of the attack for the research paper took me a long time! You can anticipate that this assignment might also take quite a while, but the payoff will be in your new skills and learning.
+The inspiration for this assignment is the research paper “Practical state recovery attacks against legacy RNG imple- mentations” by Shaanan N. Cohney, Matthew D. Green, and Nadia Heninger, with more details at duhkattack.com.
+Read all the instructions carefully and make sure you understand what is expected of you
